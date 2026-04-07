@@ -26,7 +26,7 @@ A Python-based desktop cricket scoring application with a graphical user interfa
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/cricketlive.git
+   git clone https://github.com/supethum/CrickLive-app.git
    cd cricketlive
    ```
 
