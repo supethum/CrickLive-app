@@ -2,8 +2,6 @@
 
 A Python-based desktop cricket scoring application with a graphical user interface for live match management and comprehensive statistics tracking.
 
-![CrickLive Logo](internal/logo.png)
-
 ## Features
 
 - **Live Cricket Scoring**: Ball-by-ball scoring with real-time updates
