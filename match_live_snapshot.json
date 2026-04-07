@@ -1,0 +1,41 @@
+{
+    "match_type_innings": 2,
+    "current_innings": 2,
+    "current_team": "Team B",
+    "current_batting_team_name": "Team B",
+    "current_bowling_team_name": "Team A",
+    "current_team_score": 7,
+    "current_team_wickets": 0,
+    "current_over_count": "0.3",
+    "current_over_balls": [
+        "0",
+        "1",
+        "6"
+    ],
+    "last_over_balls": [],
+    "striker": {
+        "name": "Player B2",
+        "runs": 6,
+        "fours": 0,
+        "sixes": 1,
+        "dot_balls": 0,
+        "strike_rate": 600.0
+    },
+    "non_striker": {
+        "name": "Player B1",
+        "runs": 1,
+        "fours": 0,
+        "sixes": 0,
+        "dot_balls": 1,
+        "strike_rate": 50.0
+    },
+    "bowler": {
+        "name": "Player A1",
+        "overs_bowled": 0.3,
+        "runs_conceded": 7,
+        "wickets_taken": 0
+    },
+    "target": 4,
+    "inning_1_score": 3,
+    "crr": 14.0
+}
